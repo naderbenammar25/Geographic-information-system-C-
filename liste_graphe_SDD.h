@@ -1,0 +1,6 @@
+#ifndef LSTGRFSDD_H_INCLUDED
+#define LSTGRFSDD_H_INCLUDED
+
+#include "LSTGRF.h"
+
+#endif // LSTGRFSDD_H_INCLUDED

@@ -1,0 +1,6 @@
+#ifndef ELTGOVSDD_H_INCLUDED
+#define ELTGOVSDD_H_INCLUDED
+
+#include "ELTGOV.h"
+
+#endif // ELTGOVSDD_H_INCLUDED

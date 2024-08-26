@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1681675828 source:a:\cb programs\projet_asd_2_\elt_gouvernorat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"elt_gouvernorat_prime.h"
+
+1681677755 a:\cb programs\projet_asd_2_\elt_gouvernorat_prime.h
+	"elt_gouvernorat.h"
+
+1681415608 a:\cb programs\projet_asd_2_\elt_gouvernorat.h
+
+1681677755 source:a:\cb programs\projet_asd_2_\main.c
+	<stdio.h>
+	<stdlib.h>
+	"elt_gouvernorat_prime.h"
+	"liste_graphe_prime.h"
+	"unistd.h"
+	<conio.h>
+
+1681677755 a:\cb programs\projet_asd_2_\liste_graphe_prime.h
+	"elt_gouvernorat_prime.h"
+	"liste_graphe.h"
+
+1681677241 a:\cb programs\projet_asd_2_\liste_graphe.h
+	"elt_gouvernorat_prime.h"
+
+1681680425 source:a:\cb programs\projet_asd_2_\liste_graphe.c
+	<stdlib.h>
+	<limits.h>
+	<stdio.h>
+	"liste_graphe_prime.h"
+	"elt_gouvernorat_prime.h"
+	<unistd.h>
+
